@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://west-liu.github.io/jiamei-apartment/sitemap.xml
